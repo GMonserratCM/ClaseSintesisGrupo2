@@ -1,0 +1,11 @@
+.container-header{
+    display:flex;
+    height:500px ;
+    width:100%;
+    background-color:teal ;
+}
+
+.main-container{
+    display: flex;
+    height:1500px;
+}
